@@ -1,0 +1,32 @@
+{
+  "id": "./stockkeeper.html",
+  "name": "Rainbrew Stock Keeper",
+  "short_name": "RB Stock",
+  "description": "Rainbrew Inventory - Stock Keeper",
+  "start_url": "stockkeeper.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2A1F1A",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
